@@ -53,5 +53,8 @@ Based on the analysis, some notable insights include:
 
 Feel free to connect with me for any questions, feedback, or collaborations!
 
+Author 
+
 Reham Nagaty
-https://www.linkedin.com/in/reham-mohamed-nagaty/
+
+[LinkedIn](https://www.linkedin.com/in/reham-mohamed-nagaty/)
