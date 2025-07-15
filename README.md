@@ -42,14 +42,15 @@ Based on the analysis, some notable insights include:
 * **Seasonal Peaks:** Sales activity typically peaks during the summer and winter months, with a noticeable decline in spring and fall. This seasonality could be influenced by factors such as school calendars or year-end financial planning.
 * **Dominant Property Types:** Duplex, Condos, and Townhouse consistently account for the largest share of sales.
 * **Price-Size Correlation:** The scatter plot for Square Footage vs. Price  shows numerous data points scattered across a range of square footage and price. The prominent black horizontal line does not appear to be a regression or trend line indicating a positive correlation. Instead, it looks like it represents the average price for all houses irrespective of square footage.
-## Repository Contents
+
+Repository Contents
 
 * `Vancouver_House_Sales_Analysis.pbix`: The Power BI Desktop file containing the complete dashboard.
 * `data/`: synthetic_house_prices_20_years
 * `screenshots/`: Dashboard
 * `README.md`: This file.
 
-## Contact
+
 
 Feel free to connect with me for any questions, feedback, or collaborations!
 
